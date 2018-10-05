@@ -29,4 +29,7 @@ References
 4. Coding in Flow, Youtube AlertDialog + Passing Event to Activity - Android Studio Tutorial
    https://youtu.be/r_87U6oHLFc, 2017-10-03, retrieved 2018-10-04
 
+5. thenewboston, Youtube Android App Development for Beginners - 46 - ListView Example,
+   https://youtu.be/A-_hKWMA7mk, 2015-01-03, retrieved 2018-10-04
+
 
