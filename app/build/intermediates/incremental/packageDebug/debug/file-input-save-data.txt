@@ -1,7 +1,0 @@
-#Internal package file, do not edit.
-#Fri Oct 05 11:01:12 MDT 2018
-0.baseType=DIRECTORY
-0.base=C\:\\Users\\xyh19\\Desktop\\UA\\cmput301\\a1\\FeelsBook\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\95
-0.path=classes.dex
-0.set=DEX
-count=1

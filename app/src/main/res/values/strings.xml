@@ -1,27 +1,32 @@
 <resources>
-    // buttons in main
-    <string name="app_name">yuhang1-FeelsBook</string>
-    <string name="button_love">Love</string>
-    <string name="button_joy">Joy</string>
-    <string name="button_surprise">surprise</string>
-    <string name="button_anger">anger</string>
-    <string name="button_sadness">sadness</string>
-    <string name="button_fear">fear</string>
-    <string name="button_count">count</string>
-    <string name="button_history">history</string>
+    <string name="app_name">MediGram</string>
+    <string name="logoString">medigram</string>
+    <string name="UserIDInput">Enter your UserID.</string>
+    <string name="SignInButton">Sign In</string>
+    <string name="SignUpButton"> <u>Sign Up</u> </string>
 
-    // text in count
-    <string name="LOVE_counts">LOVE counts:</string>
-    <string name="JOY_counts">JOY counts:</string>
-    <string name="SURPRISE_counts">SURPRISE counts:</string>
-    <string name="ANGER_counts">ANGER counts:</string>
-    <string name="SADNESS_counts">SADNESS counts:</string>
-    <string name="FEAR_counts">FEAR counts:</string>
+    <string name="SignUpUserID">Enter desired UserID (min 8 characters)</string>
+    <string name="SignUpEmail">Enter your email address.</string>
+    <string name="SignUpPhone">Enter your Phone Number.</string>
+    <string name="checkBoxPatient">Patient</string>
+    <string name="checkBoxCareProvider">Care Provider</string>
 
-    // text in comment
-    <string name="submit">Submit</string>
-    <string name="no_comment">No comment</string>
+    <string name="userProfileSubTitle">Profile</string>
+    <string name="userIDText">UserID:</string>
+    <string name="emailText">Email:</string>
+    <string name="phoneText">Phone No:</string>
+    <string name="ViewProblemsButton">View Problems</string>
+    <string name="searchBoxAtProfile">Search for a problem using a keyword (title, body-location, geo-location, etc.)</string>
+    <string name="editAccountButton">Edit Profile</string>
+    <string name="ViewPatientListButton">View Patients</string>
 
-    // text in history_list
-
+    <string name="editProfileTitle">Edit Profile</string>
+    <string name="userIDEditText">UserID: </string>
+    <string name="emailEditText">Email:</string>
+    <string name="phoneEditText">Phone No:</string>
+    <string name="updateButtonText">Update</string>
+    <string name="deleteButtonText">Delete</string>
+    <string name="title_activity_patient_list">PatientListActivity</string>
+    <string name="title_activity_add_patient">AddPatientActivity</string>
+    <string name="title_activity_care_provider">CareProviderActivity</string>
 </resources>

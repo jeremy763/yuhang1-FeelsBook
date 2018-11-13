@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\xyh19\\Desktop\\UA\\cmput301\\a1\\FeelsBook\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
+            "outputFile": "/Users/jeremy/Desktop/cmput301/MediGram/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\xyh19\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2fd9f3075cafcf9f7dc0280f07299599\\res\\values-v16\\values-v16.xml",
+                    "source": "/Users/jeremy/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/867d529a47876afe826c5df18e1705fd/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\xyh19\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\a7cc0a877436d289efa7605ea99a3e6d\\res\\values-v16\\values-v16.xml",
+                    "source": "/Users/jeremy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/7c7ddbfc262583a4a2243fd45bcb5e1e/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
