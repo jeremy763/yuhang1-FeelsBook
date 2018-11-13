@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="C:\Users\xyh19\Desktop\UA\cmput301\a1\FeelsBook\app\src\main\shaders"/></dataSet><dataSet config="debug"><source path="C:\Users\xyh19\Desktop\UA\cmput301\a1\FeelsBook\app\src\debug\shaders"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/Users/jeremy/Desktop/cmput301/yuhang1-FeelsBook/app/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/Users/jeremy/Desktop/cmput301/yuhang1-FeelsBook/app/src/debug/shaders"/></dataSet></merger>

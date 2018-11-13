@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\xyh19\\Desktop\\UA\\cmput301\\a1\\FeelsBook\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v26\\values-v26.xml",
+            "outputFile": "/Users/jeremy/Desktop/cmput301/yuhang1-FeelsBook/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v26/values-v26.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\xyh19\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\a7cc0a877436d289efa7605ea99a3e6d\\res\\values-v26\\values-v26.xml",
+                    "source": "/Users/jeremy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/daa695f15a137ba9de7d8e96887abcf7/res/values-v26/values-v26.xml",
                     "from": {
                         "startLines": "2,3,4,8,12,16",
                         "startColumns": "4,4,4,4,4,4",
