@@ -1,4 +1,0 @@
-#Mon Nov 12 14:13:03 EST 2018
-base.0=/Users/jeremy/Desktop/cmput301/yuhang1-FeelsBook/app/build/intermediates/transforms/dexMerger/debug/7
-path.0=classes.dex
-renamed.0=classes.dex
